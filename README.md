@@ -1,6 +1,6 @@
 # EthVault
 
-EthVault is a simple Ethereum wallet generator built with React and Tailwind CSS. This application allows you to generate a new mnemonic seed phrase and create multiple Ethereum wallets from that seed.
+EthVault is a simple Ethereum wallet generator built with React Js and Tailwind CSS. This application allows you to generate a new mnemonic seed phrase and create multiple Ethereum wallets from that seed.
 
 ## Features
 
